@@ -14,9 +14,6 @@
 
 ---
 
-<a name="english"></a>
-# 🇺🇸 ENGLISH VERSION
-
 ## 🚀 About Me
 
 ```typescript
